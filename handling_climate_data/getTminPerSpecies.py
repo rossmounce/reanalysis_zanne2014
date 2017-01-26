@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# coding=UTF8
 import re
 import time
 import scipy.stats
